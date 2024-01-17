@@ -32,7 +32,7 @@ This program is generalizable to PCR plate analysis and speeds up the calculatio
 analysis steps. It can be expanded on for use in other PCR project analyses and can serve as a
 starting point for projects.
 
-* This data was tested using my lab’s PCR plate data and checked using the manually calculated
+This data was tested using my lab’s PCR plate data and checked using the manually calculated
 values for accuracy.
 
 * Code - project.py
