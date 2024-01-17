@@ -35,6 +35,6 @@ starting point for projects.
 * This data was tested using my lab’s PCR plate data and checked using the manually calculated
 values for accuracy.
 
-Code - project.py
-Sample inputs - plate1.xlsx + plate2.xlsx
-Sample output - outputs.csv
+* Code - project.py
+* Sample inputs - plate1.xlsx + plate2.xlsx
+* Sample output - outputs.csv
